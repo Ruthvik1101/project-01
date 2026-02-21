@@ -29,9 +29,13 @@ This project applies classical machine learning methods to speech emotion recogn
 The project reflects hands-on practice in:
 
 ✔️Feature normalization
+
 ✔️Encoding and preprocessing
+
 ✔️Model training and evaluation
+
 ✔️ Debugging ML workflows
+
 ✔️Deployment-ready application design
 
 **System Architecture:**
@@ -56,7 +60,7 @@ Dataset characteristics:
 
 **Methodology**:
 
-1. Audio Preprocessing
+1. **Audio Preprocessing**
 
 To ensure consistent input for machine learning, the following preprocessing steps were applied:
 
@@ -71,7 +75,7 @@ To ensure consistent input for machine learning, the following preprocessing ste
 5, Converted into structured numerical form
 
 
-2. Feature Extraction
+2.** Feature Extraction**
 
 Multiple acoustic features were extracted from each audio signal:
 
@@ -96,7 +100,7 @@ Indicates signal noisiness and frequency variation.
 Represents loudness intensity of the signal.
 
 
-3. Model Training
+3. **Model Training**
 
 Machine learning pipeline components:
 
@@ -111,7 +115,7 @@ Machine learning pipeline components:
 5, Trained model saved for future predictions
 
 
-4. Model Evaluation
+4.** Model Evaluation**
 
 Evaluation metrics used:
 
@@ -136,10 +140,15 @@ An interactive web application was developed to enable real-time emotion detecti
 User Capabilities
 
 ✔️Upload WAV audio file
+
 ✔️Record voice directly
+
 ✔️View predicted emotion
+
 ✔️See prediction confidence score
+
 ✔️Track session prediction history
+
 ✔️Visualize emotion distribution
 
 **Technologies Used**:
