@@ -48,6 +48,8 @@ Audio Input → Preprocessing → Feature Extraction → Model Prediction → Re
 
 The model was trained using the RAVDESS Speech Emotion Dataset, which contains labeled emotional speech recordings.
 
+Dataset file Path: "C:\Users\rasag\OneDrive\Documents\RAVDNESS"
+
 Dataset characteristics:
 
 1. Multiple speakers
